@@ -11,7 +11,7 @@ void main()
 
 //list of cars
 {
-  List cars = ["BMW", "BENZ", "AUDI", "TOYOTA","HARRIER"];
+  List cars = ["BMW", "BENZ", "AUDI", "TOYOTA", "HARRIER", "MAZDA"];
 
   //iteration with anonymous function as a parameter
   cars.forEach((item) {
