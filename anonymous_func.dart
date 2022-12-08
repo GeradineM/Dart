@@ -1,13 +1,13 @@
 void main()
-//{
+{
 //assigning anonymous function to a variable
-//var sumOfDoubles = (double x, double y) {
-//return x + y;
-//};
-
+var sumOfDoubles = (double x, double y) {
+return x + y;
+};
+ {
 //printing value of sumOfDouble
-//print(sumOfDoubles(20.5, 40.2));
-//}
+print(sumOfDoubles(20.5, 40.2))
+};
 
 //list of cars
 {
